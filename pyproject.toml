@@ -1,0 +1,7 @@
+[project]
+name = "mirath-py-awl-proportional-scale"
+version = "1.0.0"
+description = "Al-Awl Fractional Overflow Base Denominator Escalator (6->7..10, 12->13..17, 24->27) (معالج مسائل العول وتخفيض السهام النسبي)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
